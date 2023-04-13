@@ -18,7 +18,8 @@ VR_Team是一支由江苏海洋大学计算机工程学院的本科学生组成�
 
 未来，我们将不断探索和创新，将更多的3D元素融入智能电视，为用户带来更多、更好玩的大屏体验，进一步提升智能电视的消费潜力和市场价值。
 
-**在线访问**：
+**在线访问**：[立体视界](http://vis.vrteam.top/)
+
 # 二、大赛方向
 
 ![1.png](https://cdn.nlark.com/yuque/0/2023/png/27367619/1681118538056-ca045401-790e-4307-8eba-ba4a71e7953f.png#averageHue=%23f2f2f2&clientId=u4d33ac9b-a616-4&from=ui&height=292&id=ubb99f03d&name=1.png&originHeight=737&originWidth=1367&originalType=binary&ratio=1.25&rotation=0&showTitle=false&size=319722&status=done&style=none&taskId=u0ef58c9f-fb37-4235-90e8-17841b3b6a1&title=&width=542.3999938964844)
@@ -77,7 +78,7 @@ VR_Team是一支由江苏海洋大学计算机工程学院的本科学生组成�
 # 六、后期计划
 当前，我们的项目正处于Demo开发阶段，因此在操作和互动性、案例完整性和准确性方面还有不足之处。未来，我们将不断增加更符合项目主题的案例，加强大屏幕用户和系统之间的操作联系，并支持使用物体设备，如VR头盔、游戏手柄等等。我们团队非常看好这一发展前景，并将持续开发和扩充。在未来的开发中，我们将进一步提高系统的用户体验和视觉效果，使之更加规范和优美。
 
-由于项目不断更新，请您访问最新的网址获得体验。
+由于项目不断更新，请您访问最新的[网址](http://vis.vrteam.top/)获得体验。
 
 
 
