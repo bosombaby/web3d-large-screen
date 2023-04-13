@@ -6,7 +6,7 @@ const useProductStore = defineStore('product', {
             mainList: [
 
                 { title: '作品介绍', single: true },
-                { title: '项目介绍', link: '/docs/brief.html', author: '', photo_url: 'textures/项目介绍.png' },
+                { title: '项目介绍', link: 'docs/brief.html', author: '', photo_url: 'textures/项目介绍.png' },
 
 
                 { title: '最新作品', single: true },
