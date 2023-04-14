@@ -79,7 +79,7 @@ const useProductStore = defineStore('product', {
 
 
                 { title: '地理信息', single: true },
-                { title: '三维数字化地球', link: 'examples/gis/cesium_world.html', author: '', photo_url: 'textures/三维数字化地球.png' },
+                { title: '三维数字化🌏', link: 'examples/gis/cesium_world.html', author: '', photo_url: 'textures/三维数字化地球.png' },
 
 
                 { title: '趣味游戏', single: true },

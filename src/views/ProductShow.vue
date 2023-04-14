@@ -4,7 +4,6 @@
         <div class="top-header">
             3D智能大屏
         </div>
-
         <div class="main-content">
             <div v-for="(item, index) in caseList" :index="index">
                 <div class="classfiy-theme" v-if="item.single">{{ item.title }}</div>
