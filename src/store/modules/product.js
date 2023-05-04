@@ -63,6 +63,7 @@ const useProductStore = defineStore('product', {
                 { title: '雕塑', link: 'examples/art/sculpture.html', author: '', photo_url: 'textures/雕塑.jpg' },
                 { title: '线条着色', link: 'examples/art/colored_line.html', author: '', photo_url: 'textures/线条着色.jpg' },
                 { title: '城堡', link: 'examples/art/castle.html', author: '', photo_url: 'textures/城堡.jpg' },
+                { title: '音乐可视化', link: 'examples/art/music_vis.html', author: '', photo_url: 'textures/音乐可视化.png' },
                 { title: '梦幻小屋', link: 'examples/art/dream_house.html', author: '', photo_url: 'textures/梦幻小屋.jpg' },
 
 
@@ -86,10 +87,21 @@ const useProductStore = defineStore('product', {
                 { title: '鬼屋', link: 'examples/project/haunted_house.html', author: '', photo_url: 'textures/鬼屋.png' },
                 { title: '堆箱子', link: 'examples/game/stack_boxes.html', author: '', photo_url: 'textures/堆箱子.jpg' },
                 { title: '旋转魔方', link: 'examples/game/magic_cube.html', author: '', photo_url: 'textures/旋转魔方.png' },
+                { title: '开火车', link: 'examples/game/drive_train.html', author: '', photo_url: 'textures/开火车.png' },
                 { title: '车辆换肤', link: 'examples/game/materials_car.html', author: '', photo_url: 'textures/车辆换肤.jpg' },
                 { title: '学习旅途', link: 'examples/game/3d_trip.html', author: '', photo_url: 'textures/学习旅途.png' },
 
-                { title: 'AR/VR（待更新）', single: true },
+
+
+
+                { title: 'AR/VR（待补充）', single: true },
+                { title: '过山车', link: 'examples/vr/roller_coaster.html', author: '', photo_url: 'textures/过山车.jpg' },
+                { title: '全景美景', link: 'examples/vr/panorama_scene.html', author: '', photo_url: 'textures/全景美景.jpg' },
+
+                { title: '元宇宙（待补充）', single: true },
+                { title: '智慧城市', link: 'examples/metaverse/smart_city.html', author: '', photo_url: 'textures/智慧城市.png' },
+
+
 
 
 
